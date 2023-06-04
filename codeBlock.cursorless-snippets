@@ -1,0 +1,19 @@
+{
+  "codeBlock": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "markdown"
+          ]
+        },
+        "body": [
+          "```$language",
+          "$body",
+          "```"
+        ]
+      }
+    ],
+    "description": "Code block"
+  }
+}
