@@ -1,0 +1,17 @@
+{
+  "imageLink": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "markdown"
+          ]
+        },
+        "body": [
+          "![](img/$name.png)"
+        ]
+      }
+    ],
+    "description": "Image link"
+  }
+}
