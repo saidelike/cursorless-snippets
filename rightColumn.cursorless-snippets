@@ -1,0 +1,21 @@
+{
+  "rightColumn": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "markdown"
+          ]
+        },
+        "body": [
+          ".right-column[",
+          "",
+          "$body",
+          "",
+          "]"
+        ]
+      }
+    ],
+    "description": "remarkjs right column"
+  }
+}
