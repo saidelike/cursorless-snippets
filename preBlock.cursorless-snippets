@@ -1,0 +1,19 @@
+{
+  "preBlock": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "markdown"
+          ]
+        },
+        "body": [
+          "<pre>",
+          "$body",
+          "</pre>"
+        ]
+      }
+    ],
+    "description": "Pre block"
+  }
+}
